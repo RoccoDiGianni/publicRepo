@@ -1,2 +1,2 @@
 # publicRepo
-My public Repository
+Public repo for projects
